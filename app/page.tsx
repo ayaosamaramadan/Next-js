@@ -2,7 +2,7 @@
 export default function Home() {
   return (
  <>
- <p >aya</p>
+ <p >HOME PAGE</p>
  </>
   );
 }
